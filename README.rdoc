@@ -1,0 +1,3 @@
+= GoF Design Patterns
+
+Source code for design patterns presented at the Melbourne Patterns Group
