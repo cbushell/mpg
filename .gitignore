@@ -1,5 +1,6 @@
+.DS_Store
+.metadata
+*.class
+*/.settings
 Servers
 composite-tiles*
-.metadata
-*/.settings
-.DS_Store
