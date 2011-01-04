@@ -1,4 +1,4 @@
-package mpg.composite.gof;
+package mpg.composite;
 
 public class Rectangle implements Graphic{ // Leaf
 

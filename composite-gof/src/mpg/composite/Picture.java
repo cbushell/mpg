@@ -1,4 +1,4 @@
-package mpg.composite.gof;
+package mpg.composite;
 
 import java.util.ArrayList;
 import java.util.List;
